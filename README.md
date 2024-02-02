@@ -9,6 +9,8 @@ This repository contains projects for the ZSU subject at VŠB - Technical Univer
 This project focuses on conducting an exploratory data analysis (EDA) and clustering on the Adult dataset, a well-known dataset for socio-economic studies. The goal is to uncover underlying patterns and socio-economic segments within the data, emphasizing the influence of education, working hours, and age on economic outcomes.
 
 - **Main Tasks:** Perform EDA to understand the data distribution and characteristics, followed by clustering analysis to identify distinct socio-economic groups within the dataset.
+- [Google Colab](https://colab.research.google.com/github/JaKuBisz/ZSU/blob/master/EDA_Clustering.ipynb)
+- [GitHub](https://github.com/JaKuBisz/ZSU/blob/master/EDA_Clustering.ipynb)
 
 ### 2. Data Classification Project Information
 
