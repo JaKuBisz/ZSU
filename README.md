@@ -15,6 +15,8 @@ This project focuses on conducting an exploratory data analysis (EDA) and cluste
 ### 2. Data Classification Project Information
 
 The second project aims to apply classification techniques to predict specific outcomes based on various predictors. (Details on this project will be added as the project progresses.)
+- [Google Colab](https://colab.research.google.com/github/JaKuBisz/ZSU/blob/master/Classification.ipynb)
+- [GitHub](https://github.com/JaKuBisz/ZSU/blob/master/Classification.ipynb)
 
 ## Dataset used
 
